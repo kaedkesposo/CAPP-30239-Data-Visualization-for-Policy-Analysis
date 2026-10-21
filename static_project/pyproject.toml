@@ -1,0 +1,15 @@
+[project]
+name = "altair-lab"
+version = "2026"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "altair>=6.2.2",
+    "geopandas>=1.1.4",
+    "jupyter>=1.1.1",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "ruff>=0.16.9",
+    "vl-convert-python>=1.9.0.post1",
+]
