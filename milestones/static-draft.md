@@ -41,6 +41,8 @@ Each square is the average growth of schools in one poverty group and one climat
 Schools with higher chronic absenteeism have lower growth in both subjects, and dots are shaded by poverty level, with darker blue meaning higher poverty. The downward pattern appears within the highest-poverty group as well as the others, but the highest-poverty schools dominate the far right of the chart, so absenteeism and poverty cannot be fully separated there. This extends the poverty question to attendance, and I plan to try one panel per poverty group.
 
 **7. Average Growth by Community Area (choropleth map).**
+
+
 ![](../images/07_community_area_map.svg)
 Each of Chicago's 77 community areas is shaded by the average growth of the schools in it, averaging ELA and math. This shows where growth is concentrated geographically and lets me check whether the geography reflects the poverty pattern from chart 1. Areas with no schools appear gray, and I am deciding whether to also gray out areas with only a few schools. [Add one sentence on what the map shows.]
 
