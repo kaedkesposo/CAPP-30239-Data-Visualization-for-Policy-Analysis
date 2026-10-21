@@ -49,12 +49,12 @@ Schools with higher chronic absenteeism have lower growth in both subjects, and 
 
 ![](../images/07_community_area_map.svg)
 
-Each of Chicago's 77 community areas is shaded by the average growth of the schools in it, averaging ELA and math. This shows where growth is concentrated geographically and lets me check whether the geography reflects the poverty pattern from chart 1. Areas with no schools appear gray, and I am deciding whether to also gray out areas with only a few schools. [Add one sentence on what the map shows.]
+Each of Chicago's 77 community areas is shaded by the average growth of the schools in it, averaging ELA and math. This shows where growth is concentrated geographically and lets me check whether the geography reflects the poverty pattern from chart 1. Areas with no schools appear gray, and I am deciding whether to also gray out areas with only a few schools.
 
 **8. Growth by Enrollment Trend and Poverty Level (grouped bar, ELA and math).**
 ![](../images/08_enrollment_trend_bar.svg)
 
-Schools are grouped by their five-year enrollment trend (consistent decline, mixed, consistent growth), with separate bars for lower- and higher-poverty schools split at the median. Requiring a consistent trend avoids treating a one-year fluctuation as real decline, and splitting by poverty checks whether any pattern is more than a poverty effect. This connects the story to CPS's declining enrollment and enrollment-based staffing. [Add one sentence on what the bars show, and note any bars based on few schools.]
+Schools are grouped by their five-year enrollment trend (consistent decline, mixed, consistent growth), with separate bars for lower- and higher-poverty schools split at the median. Requiring a consistent trend avoids treating a one-year fluctuation as real decline, and splitting by poverty checks whether any pattern is more than a poverty effect. This connects the story to CPS's declining enrollment and enrollment-based staffing. 
 
 ## What form do you envision your final narrative taking?
 
